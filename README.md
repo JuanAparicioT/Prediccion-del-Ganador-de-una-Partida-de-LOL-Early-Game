@@ -1,7 +1,7 @@
 # 🎮 Predicción de Ganador de una Partida de League of Legends — Early Game
 
 <p align="center">
-  <img src="https://placehold.co/800x300/1a1a2e/c89bff?text=LoL+Early+Game+Predictor&font=montserrat" alt="Banner del proyecto" width="800"/>
+  <img src="banner.png" alt="Banner" width="800"/>
 </p>
 
 ---
